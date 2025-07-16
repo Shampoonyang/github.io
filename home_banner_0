@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>산타냥 소개</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #000;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    img 
+    {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+
+<body style="margin:0; background:#000;">
+    <img src="https://santanyang.co.kr:10010/html/home_banner_thumb_29259716_0.png" style="width:100%; height:auto;" />
+</body>
+</html>
